@@ -1,11 +1,13 @@
 # Data-analysis---Deloitte
 📊 Deloitte Data Analytics & Equality Dashboard
+
 🧩 Project Overview
 
 This repository contains multiple data analytics and visualization tasks completed as part of the Deloitte Virtual Internship Program.
 The tasks involve analyzing telemetry data, performing forensic compensation analysis, and building an interactive Tableau dashboard to visualize insights and equality metrics.
 
 🧠 Tasks Completed
+
 Task 1: Data Analysis (Telemetry Dashboard)
 
 Objective: Analyze the telemetry data collected by Daikibo using Tableau.
@@ -20,11 +22,13 @@ Focused on identifying the most “unhealthy” factories and device types using
 
 Outcome:
 
+
 Created interactive dashboards comparing Factory and Device Type performance.
 
 Helped detect performance gaps and operational inefficiencies across factories.
 
 Task 2: Forensic Technology (Equality Analysis)
+
 
 Objective: Conduct forensic analysis of employee compensation data to identify pay equality patterns across different factories and job roles.
 
@@ -47,6 +51,7 @@ Created the base dataset (Task 5 Equality Table.xlsx) used in Tableau to visuali
 Provided insights into compensation fairness and workforce equality across Daikibo factories.
 
 📈 Tableau Dashboard Summary
+
 1. Factory Unhealthiness Analysis (Sheet 1)
 
 Visualized total unhealthy device readings by Factory.
@@ -70,12 +75,15 @@ Allowed stakeholders to drill down by factory or device for root cause analysis.
 Enabled proactive planning and maintenance scheduling to reduce unhealthy incidents.
 
 📁 Files Included
+
 File Name	Description
 Task 5 Equality Table.xlsx	Processed equality dataset used in Tableau visualizations.
 Deloitte equity dashboard.png	Final Tableau dashboard showing equality and performance comparisons.
 deloitte task 2.png	Screenshot of Task 2 forensic equality analysis results.
-Daikibo Telemetry Data (Tableau)	Tableau workbook (if available) containing all dashboards and sheets.
+Daikibo Telemetry Data (Tableau)	Tableau workbook containing all dashboards and sheets.
+
 ⚙️ Tools & Technologies Used
+
 
 Tableau Desktop – for data visualization and dashboard design.
 
@@ -85,13 +93,16 @@ Data Analysis Techniques: Aggregation, Filtering, and KPI comparison.
 
 Data Visualization: Bar charts, dashboards, and filter-based interactivity.
 
+
 🧾 Key Insights
+
 
 Certain factories such as Daikibo-Factory-Meiyo and Daikibo-Factory-Seiko show higher unhealthy metrics.
 
 Device-level analysis helps pinpoint specific problem types or models.
 
 Equality analysis indicates varying compensation fairness across factories and job roles.
+
 
 🚀 How to Use
 
@@ -108,6 +119,7 @@ SUM(unhealthy) → Rows
 Add Device Type as a secondary analysis variable.
 
 Combine the sheets into a single interactive dashboard for factory and device comparison.
+
 
 🏁 Outcome
 
