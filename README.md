@@ -76,11 +76,12 @@ Enabled proactive planning and maintenance scheduling to reduce unhealthy incide
 
 📁 Files Included
 
-File Name	Description
-Task 5 Equality Table.xlsx	Processed equality dataset used in Tableau visualizations.
-Deloitte equity dashboard.png	Final Tableau dashboard showing equality and performance comparisons.
-deloitte task 2.png	Screenshot of Task 2 forensic equality analysis results.
-Daikibo Telemetry Data (Tableau)	Tableau workbook containing all dashboards and sheets.
+| File Name                          | Description                                                           |
+| ---------------------------------- | --------------------------------------------------------------------- |
+| `Task 5 Equality Table.xlsx`       | Processed equality dataset used in Tableau visualizations.            |
+| `Deloitte equity dashboard.png`    | Final Tableau dashboard showing equality and performance comparisons. |
+| `deloitte task 2.png`              | Screenshot of Task 2 forensic equality analysis results.              |
+| `Daikibo Telemetry Data (Tableau)` | Tableau workbook containing all dashboards and sheets.                |
 
 ⚙️ Tools & Technologies Used
 
